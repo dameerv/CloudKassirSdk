@@ -6,4 +6,5 @@
       "psr-4": {
         "CloudKassirSdk\\": "src/CloudKassirSdk/"
     }
+   "minimum-stability": "dev"
  }
