@@ -14,5 +14,6 @@
       "email": "d2450170@dyandex.ru"
     }
   ],
-  "minimum-stability": "stable"
+  "minimum-stability": "stable",
+  "prefer-stable" : "true"
 }
