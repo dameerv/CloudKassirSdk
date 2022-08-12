@@ -1,0 +1,16 @@
+{
+  "name": "dammeerv/Cloud-kassir-sdk",
+  "description": "Cloud Kassir SDK",
+  "type": "library",
+  "require": {
+    "php": ">=7.4.0"
+  },
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Damir Vakhitov",
+      "email": "d2450170@dyandex.ru"
+    }
+  ],
+  "minimum-stability": "dev"
+}
