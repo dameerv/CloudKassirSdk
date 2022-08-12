@@ -2,6 +2,7 @@
   "name": "dammeerv/cloud-kassir-sdk",
   "description": "Cloud Kassir SDK",
   "type": "library",
+  "version": "1.0",
   "require": {
     "php": ">=7.4.0"
   },
